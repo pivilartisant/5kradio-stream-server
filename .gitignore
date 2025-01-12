@@ -1,0 +1,53 @@
+# Sensitive files
+*.swp              
+*.swo              
+*.swn             
+.bash_history     
+.zsh_history      
+.ssh/             
+.lyrics           
+.cache/
+.lyrics/
+.oh-my-zsh/
+.bash_logout
+.bashrc
+.lesshst
+.profile
+.shell.pre-oh-my-zsh
+.sudo_as_admin_successful
+.tmux.conf
+.viminfo
+.zcompdump
+.zcompdump-solaris-5.8.1
+.zcompdump-solaris-5.8.1.zwc
+.oh-my-zsh
+.vim
+.local
+.config/mpd/mpd.conf
+.config/systemd
+.config/ncmpcpp/error.log
+.config/ncmpcpp/defaultConfig
+.config/icecast
+scripts/
+archive/
+.oh-my-zsh/
+
+
+
+# Logs
+*.log              # Log files
+*.out              # Output files
+*.err              # Error files
+
+# Operating System Files
+.DS_Store          # macOS-specific file
+*.bak              # Backup files
+Thumbs.db          # Windows thumbnails
+
+# Application Files
+*.cache            # Cache files
+*.lock             # Lock files
+*.tmp              # Temporary files
+
+
+

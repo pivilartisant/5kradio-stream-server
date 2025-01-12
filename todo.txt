@@ -1,0 +1,12 @@
+# TODO
+
+# - create 5kradio playlist
+# - test in mpd config: resampler plugins, comment input, what is best encoder for shout 
+# - improve looks of my terminal
+# - remap tmux change window to use prefix
+# - reconfigure ncmpcpp to match vim navigation
+# - look for alternative audio visualizers (if i have extra time)
+# - look into asoundrc
+# - add lines to vim
+# - configure ddns for icecast server 
+# - create website for icecast server 
