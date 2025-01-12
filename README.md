@@ -1,8 +1,8 @@
-# 5kradio-stream-server
+# 5kradio self-hosted streaming server
 
 ## How to access 5kradio's self-hosted stream. 
 
-WIP
+WIP :)
 
 ## Streaming audio form a raspberry pi. 
 
