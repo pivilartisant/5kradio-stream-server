@@ -31,7 +31,7 @@
 scripts/
 archive/
 .oh-my-zsh/
-
+.DS_Store
 
 
 # Logs
