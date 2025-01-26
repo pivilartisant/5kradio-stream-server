@@ -23,14 +23,14 @@ alias mpdstop="systemctl --user stop mpd.service"
 
 alias mpdstart="systemctl --user start mpd.service"
 
-#nginx (unused) see:https://lists.xiph.org/pipermail/icecast/2015-February/013166.html
+#nginx
 
 alias nginxrestart="sudo systemctl restart nginx.service"
 alias nginxstatus="sudo systemctl status nginx.service | less"
 alias nginxstart="sudo systemctl start nginx.service"
 alias nginxreload="sudo systemctl reload nginx"
 alias nginxview="ps -ax | grep nginx"
-
+alias nginxstop="sudo systemctl stop nginx.service"
 
 
 

@@ -1,5 +1,12 @@
 # 5kradio self-hosted streaming server
 
+## welcome 
+
+this is an open source audio streamer designed by phoebe from the 5k radio team.
+
+it comes pre-packaged with mpd, ncmpcpp & icecast (plus some other goodies)
+
+
 ## How to access 5kradio's self-hosted stream. 
 
 WIP :)
