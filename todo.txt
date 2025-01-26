@@ -2,18 +2,14 @@
 
 ### ALSA | MPD | MPC | NCMPCPP ####
 # - create 5kradio playlist
-# - test in mpd config: resampler plugins, what is best encoder for shout 
-
 
 ### MACHINE ####
-# - improve looks of my terminal
-# - remap tmux change window to use prefix
-# - reconfigure ncmpcpp to match vim navigation
 # - look for alternative audio visualizers (if i have extra time)
-# - look into asoundrc
 
 
 ### ICECAST SERVER ####
-# - FIX DECODER IS TOO SLOW
 # - configure ddns --> wait to have new wifi with port forwarding access 
 # - create website for icecast server 
+
+### SOLAR POWER ###
+# - look at upower for battery monitoring
