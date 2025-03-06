@@ -10,9 +10,9 @@ unbind %
 unbind '"'
 
 #reload config 
-bind r source ~/.config/tmux/tmux.conf \;display "reloaded conf"
+bind r source ~/.tmux.conf \;display "reloaded conf"
 
-# Switch panes usinf alt
+# Switch panes using alt
 bind h select-pane -L
 bind l select-pane -R
 bind k select-pane -U

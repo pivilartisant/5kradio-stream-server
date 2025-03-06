@@ -2,14 +2,27 @@
 
 ### ALSA | MPD | MPC | NCMPCPP ####
 # - create 5kradio playlist
+# - update collection
 
 ### MACHINE ####
-# - look for alternative audio visualizers (if i have extra time)
+# - create "goodmorning" command (start icecast & start nginx)
 
+### WEBSITE ####
+# - create nginx reverse proxy
+# - get dns
+# - serve website
+# - add AV capabilities 
+# - add uploader
+
+### API ####
+# - design API
+# - implement API
+# - test API
 
 ### ICECAST SERVER ####
-# - configure ddns --> wait to have new wifi with port forwarding access 
-# - create website for icecast server 
+# - update icecast headers
+# - update mpd config (stream endpoint)
+# - figure out why url is not working in audio player
 
 ### SOLAR POWER ###
 # - look at upower for battery monitoring
