@@ -1,0 +1,22 @@
+# remqp prefix C-b to C-a
+unbind C-b
+set-option -g prefix C-a
+bind C-a send-prefix
+
+# intuitive split panes
+bind + split-window -v 
+bind = split-window -h
+unbind %
+unbind '"'
+
+#reload config 
+bind r source ~/.tmux.conf \;display "reloaded conf"
+
+# Switch panes using alt
+bind h select-pane -L
+bind l select-pane -R
+bind k select-pane -U
+bind j select-pane -D
+
+#fix lag in tmux
+set -s escape-time 0 
