@@ -23,18 +23,19 @@ alias mpdstop="systemctl --user stop mpd.service"
 
 alias mpdstart="systemctl --user start mpd.service"
 
-#nginx
+#nginx 
 
 alias nginxrestart="sudo systemctl restart nginx.service"
+
 alias nginxstatus="sudo systemctl status nginx.service | less"
+
 alias nginxstart="sudo systemctl start nginx.service"
+
 alias nginxreload="sudo systemctl reload nginx"
+
 alias nginxview="ps -ax | grep nginx"
+
 alias nginxstop="sudo systemctl stop nginx.service"
-
-
-
-
 
 #files & locations
 
@@ -57,3 +58,5 @@ alias icestatus="sudo /etc/init.d/icecast2 status"
 alias backup="~/scripts/./backup.sh"
 
 alias goodnight="icestop && mpdstop && backup && sudo poweroff"
+
+alias goodmorning="icestart && mpdstart && nginxstart" 

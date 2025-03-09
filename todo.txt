@@ -6,11 +6,9 @@
 
 ### MACHINE ####
 # - create "goodmorning" command (start icecast & start nginx)
+# - update mpd config (stream endpoint and change stream to aac)
 
 ### WEBSITE ####
-# - create nginx reverse proxy
-# - get dns
-# - serve website
 # - add AV capabilities 
 # - add uploader
 
@@ -21,8 +19,7 @@
 
 ### ICECAST SERVER ####
 # - update icecast headers
-# - update mpd config (stream endpoint)
-# - figure out why url is not working in audio player
+# - remove useless things
 
 ### SOLAR POWER ###
 # - look at upower for battery monitoring
