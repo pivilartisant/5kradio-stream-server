@@ -9,7 +9,7 @@ it comes pre-packaged with mpd, ncmpcpp & icecast (plus some other goodies)
 
 ## How to access 5kradio's self-hosted stream. 
 
-WIP :)
+When the server is online you can access it through it's stream url: https://5kradiostream.ddns.net:8443/stream.ogg or any compatible client.
 
 ## Streaming audio form a raspberry pi. 
 
