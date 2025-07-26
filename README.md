@@ -9,7 +9,7 @@ it comes pre-packaged with mpd, ncmpcpp & icecast (plus some other goodies)
 
 ## How to access 5kradio's self-hosted stream. 
 
-When the server is online you can access it through it's stream url: https://5kradiostream.ddns.net:8443/stream.ogg or any compatible client.
+When the server is online you can access it through it's stream url: https://5kradiostream.ddns.net:8443/stream.ogg or any compatible client.`
 
 ## Streaming audio form a raspberry pi. 
 
@@ -28,4 +28,8 @@ Using [icecast2](http://icecast.org/), [MPD](https://www.musicpd.org/) and [ncmp
 - [tmux](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/tmux/tmux.plugin.zsh) omz plugin 
 - [ZSH](https://www.zsh.org/)
 - [oh-my-zsh](https://github.com/ohmyzsh)
+
+
+#### What it looks like 
+!["Dithered"](./images/dither_it_radio_proto.png)
 
